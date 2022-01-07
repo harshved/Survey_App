@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Survey App</string>
+    <string name="que1">Full Name</string>
+    <string name="que2">Age</string>
+    <string name="que3">Contact Detail</string>
+    <string name="que4">Height</string>
+    <string name="que5">Weight</string>
+    <string name="que6">Involved with computer work more than 2 years</string>
+    <string name="que7">How long in a day you are working on computer? (E.g. 6 Hours)</string>
+    <string name="que8">Are you working on computer continuously or intermittent?</string>
+    <string name="que9">Working on computer for a long time causes pain or discomfort in the body?</string>
+    <string name="que10">Which activity / body posture causes the pain?</string>
+    <string name="drop10_1">Sitting for long period of time</string>
+    <string name="drop10_2">Constantly watching to the desktop screen</string>
+    <string name="drop10_3">Poor postural habits</string>
+    <string name="que11">Which body part is most painful by working on computer for a long time?</string>
+    <string name="drop11_1">Head</string>
+    <string name="drop11_2">Neck</string>
+    <string name="drop11_3">Arms</string>
+    <string name="drop11_4">Wrist and Fingers</string>
+    <string name="drop11_5">Upper back</string>
+    <string name="drop11_6">Lower back</string>
+    <string name="drop11_7">Leg</string>
+    <string name="drop11_8">Feet</string>
+    <string name="que12">Do you think you need postural and exercise reminders from time to time?</string>
+    <string name="que13">Do you think that maintenance of corrected body posture will improve your work efficiency?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

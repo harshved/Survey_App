@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="que11_spinnerItems">
+        <item>@string/drop11_1</item>
+        <item>@string/drop11_2</item>
+        <item>@string/drop11_3</item>
+        <item>@string/drop11_4</item>
+        <item>@string/drop11_5</item>
+        <item>@string/drop11_6</item>
+        <item>@string/drop11_7</item>
+        <item>@string/drop11_8</item>
+    </string-array>
+</resources>
